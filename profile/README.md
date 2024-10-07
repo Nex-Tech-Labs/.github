@@ -4,12 +4,6 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/company/nex-core)
 [<img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=000000" />](https://www.twitter.com/nex_core/)
 
-Innovative technology laboratory specializing in web, mobile, and desktop solutions.
-
-## Our Tech Stack
-
-`TypeScript` `React` `Vue.js` `Next.js` `Electron` `React Native` `NLP` `Deep Learning` `Node.js` `Python`
-
 ## Projects
 
 - 🎨 **NexUI**: Cross-platform UI library
@@ -20,8 +14,10 @@ Innovative technology laboratory specializing in web, mobile, and desktop soluti
 - 🔐 **NexSecure**: Cybersecurity solution
 - ☁️ **NexCloud**: Cloud management tool
 
+`TypeScript` `React` `Vue.js` `Next.js` `Electron` `React Native` `NLP` `Deep Learning` `Node.js` `Python`
+
 ## Contact
 
-📧 contact@nex-core.com | 🌐 [nex-core.com](https://nex-core.com)
+📧 contact@nex.co | 🌐 [nex.com](https://nex.co)
 
 Pushing the boundaries of technology to create innovative solutions.
