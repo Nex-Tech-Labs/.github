@@ -8,7 +8,7 @@ Innovative technology laboratory specializing in web, mobile, and desktop soluti
 
 ## Our Tech Stack
 
-`TypeScript` `React` `Vue.js` `Next.js` `Electron` `React Native` `NLP` `Deep Learning` `Node.js` `Python`
+`TypeScript` `Next.js` `React Native` `NestJs`
 
 ## Projects
 
